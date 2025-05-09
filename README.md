@@ -74,4 +74,4 @@ Parte do desafio da disciplina de Engenharia de Software na FIAP.
 
 🧭 Diagrama do Projeto
 🧠 Veja como tudo se conecta:
-Link para o Miro – Baby Kitchen
+https://drive.google.com/drive/folders/17wvG9jaqO-_EXyegbGJJsOCEw4SV2UHh?usp=drive_link
