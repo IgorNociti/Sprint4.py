@@ -72,6 +72,5 @@ Parte do desafio da disciplina de Engenharia de Software na FIAP.
 📽️ Vídeo Demonstrativo
 ▶️ Assista ao funcionamento do sistema: YouTube – Baby Kitchen
 
-🧭 Diagrama do Projeto
-🧠 Veja como tudo se conecta:
-https://drive.google.com/drive/folders/17wvG9jaqO-_EXyegbGJJsOCEw4SV2UHh?usp=drive_link
+🧭 Diagrama do Projeto:https://drive.google.com/file/d/17upG4X8If0Y2ILsTFLNYz_4If1Z_bGPC/view?usp=sharing
+
