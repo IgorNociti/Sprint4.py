@@ -2,7 +2,7 @@ import json
 import os
 import random
 
-# Arquivos de armazenamento
+
 ARQUIVO_MAMADEIRAS = "pedidos_mamadeiras.json"
 ARQUIVO_REMEDIOS = "pedidos_remedios.json"
 
