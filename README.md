@@ -15,8 +15,7 @@ Luigi Bonuccelli – RM560950
 
 📽️ Demonstração
 ▶️ Vídeo demonstrativo: https://youtu.be/b01IH-7G7FQ
-📊 Diagrama do sistema: https://drive.google.com/file/d/17upG4X8If0Y2ILsTFLNYz_4If1Z_bGPC/view?usp=sharing
-
+📊 Diagrama do sistema: https://drive.google.com/file/d/1BVi9gkzulXq5U188Dh8QXu8hKE2w55wY/view?usp=sharing
 
 O **Baby Kitchen** é um sistema interativo em **Python** desenvolvido para melhorar a comunicação entre mães, profissionais de saúde e o setor de nutrição hospitalar. Com foco em **agilidade, usabilidade e impacto social**, o sistema permite solicitar mamadeiras, medicamentos e assistência médica diretamente do quarto.
 
