@@ -15,7 +15,7 @@ Este projeto foi desenvolvido por:
 
 ## 📽️ Demonstração
 
-- ▶️ Vídeo demonstrativo: [YouTube](https://www.youtube.com)  
+- ▶️ Vídeo demonstrativo: [YouTube](https://youtu.be/b01IH-7G7FQ?si=AGrvODmWs544zogq)  
 - 📊 Diagrama do sistema: [Google Drive](https://drive.google.com)  
 
 ---
