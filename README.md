@@ -1,106 +1,92 @@
-<div align="center">
-
-# 👶💡 Baby Kitchen  
-### *Sistema Interativo de Pedidos Hospitalares*
-
-🚼 Melhorando o cuidado com bebês nos hospitais, com agilidade, organização e empatia.  
-
-</div>
+# 👶 Baby Kitchen – Sistema de Pedidos Hospitalares
 
 ---
 
-## 👨‍💻 Equipe de Desenvolvimento
+## 🧑‍💻 Desenvolvedores
 
-| Nome | RM |
-|------|----|
-| **Henrique Maciel** | 559628 |
-| **Igor Nociti** | 560225 |
-| **Pedro Paulo Sabino** | 559578 |
-| **Luigi Bonuccelli** | 560950 |
+Este projeto foi desenvolvido por:
+
+- **Henrique Maciel** – RM559628  
+- **Igor Nociti** – RM560225  
+- **Pedro Paulo Sabino** – RM559578  
+- **Luigi Bonuccelli** – RM560950  
 
 ---
 
-## 🎬 Demonstrações
+## 📽️ Demonstração
 
-- ▶️ [**Vídeo Demonstrativo**](https://youtu.be/b01IH-7G7FQ)  
-- 🧭 [**Diagrama do Sistema**](https://drive.google.com/file/d/1BVi9gkzulXq5U188Dh8QXu8hKE2w55wY/view?usp=sharing)
+- ▶️ Vídeo demonstrativo: [YouTube](https://www.youtube.com)  
+- 📊 Diagrama do sistema: [Google Drive](https://drive.google.com)  
 
 ---
 
 ## 🍼 Sobre o Projeto
 
-**Baby Kitchen** é um sistema em Python voltado para o ambiente hospitalar, permitindo que acompanhantes possam:  
-✅ Solicitar mamadeiras e medicamentos  
-✅ Chamar a equipe médica  
-✅ Acompanhar os pedidos com estimativas de entrega  
+**Baby Kitchen** é um sistema interativo em Python desenvolvido para melhorar a comunicação entre mães, profissionais de saúde e o setor de nutrição hospitalar.
 
-Com isso, o projeto visa promover uma **experiência mais organizada, rápida e humanizada** para bebês internados e seus cuidadores.
+Com foco em agilidade, usabilidade e impacto social, o sistema permite que usuários solicitem mamadeiras, medicamentos e assistência médica diretamente do quarto hospitalar.
+
+Ideal para ambientes com bebês internados, oferecendo organização, praticidade e humanização no atendimento.
 
 ---
 
 ## ✨ Funcionalidades
 
-- 👤 Registro de **usuário e número do quarto**
-- 🍼 **Solicitação de mamadeiras** (com quantidade)
-- 💊 **Solicitação de remédios** (com nome)
-- 🚨 **Chamada de enfermeira ou médico** (com motivo)
-- 📋 **Listagem de pedidos pendentes**
-- ⏱️ **Estimativa de entrega** (estilo iFood)
-- 💾 Armazenamento em **arquivos JSON**
-- 🛡️ **Validação de entrada e tratamento de exceções**
-- 🔁 Interface de **menu interativo via terminal**
+- ✅ Registro do nome do usuário e número do quarto  
+- 🍼 Solicitação de mamadeiras com quantidade definida  
+- 💊 Solicitação de medicamentos com nome específico  
+- 🚨 Chamada de enfermeira/médico com motivo informado  
+- 📋 Listagem de todos os pedidos pendentes  
+- ⏱️ Estimativa de tempo de entrega (simulação estilo iFood)  
+- 💾 Armazenamento dos pedidos em arquivos JSON  
+- 🛡️ Validação de entradas e tratamento de exceções  
+- 🔁 Interface interativa via terminal com menu contínuo  
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Como Usar
 
 ### ✔️ Pré-requisitos
 
-- Python 3 instalado
+- Python 3 instalado  
 
-### ▶️ Passo a passo
+### ▶️ Executar o sistema
+
+1. Clone o repositório ou baixe os arquivos do projeto  
+2. No terminal, navegue até a pasta do projeto  
+3. Execute o comando:
 
 ```bash
-# Clone este repositório ou baixe os arquivos
-git clone https://github.com/seu-repositorio/baby-kitchen.git
-
-# Acesse o diretório
-cd baby-kitchen
-
-# Execute o sistema
 python baby_kitchen.py
 📁 Estrutura do Projeto
 bash
 Copiar
 Editar
 baby-kitchen/
-├── baby_kitchen.py             # Código principal
-├── pedidos_mamadeiras.json     # Armazena pedidos de mamadeiras
-├── pedidos_remedios.json       # Armazena pedidos de remédios
+├── baby_kitchen.py            # Código principal do sistema
+├── pedidos_mamadeiras.json    # Armazena os pedidos de mamadeiras
+├── pedidos_remedios.json      # Armazena os pedidos de remédios
 🧠 Tecnologias e Conceitos Aplicados
-✅ Python 3
+Linguagem Python 3
 
-🧺 Estruturas de dados: listas, dicionários
+Estruturas de dados: listas e dicionários
 
-📦 Manipulação de arquivos com json
+Manipulação de arquivos com JSON
 
-🧩 Funções modulares e reutilizáveis
+Funções modulares e reutilizáveis
 
-⚠️ Tratamento de exceções com try/except
+Tratamento de exceções com try/except
 
-⏳ Simulação de filas com tempo estimado
+Simulação de fila de entrega com tempo estimado
 
-🔧 Status do Projeto
-📚 Projeto acadêmico com todas as funcionalidades básicas implementadas e funcionais.
+🛠️ Status do Projeto
+🚧 Projeto acadêmico – versão funcional para fins educacionais
 
-🛠️ Futuras melhorias:
-🖼️ Interface gráfica (Tkinter ou Web)
+✅ Todas as funcionalidades básicas implementadas
 
-🗃️ Integração com banco de dados (SQLite, Firebase)
+🔮 Possíveis melhorias futuras
+Interface gráfica (Tkinter, PyQt ou Web)
 
-📱 App mobile ou API RESTful
+Integração com banco de dados (SQLite, Firebase)
 
-<div align="center">
-Feito com ❤️ por alunos dedicados para um futuro com mais cuidado e inovação nos hospitais.
-
-</div> ```
+API REST ou aplicativo mobile
