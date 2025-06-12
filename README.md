@@ -1,6 +1,5 @@
-# 👶 Baby Kitchen – Sistema de Pedidos Hospitalares
-
-❤️ Desenvolvedores
+👶 Baby Kitchen – Sistema de Pedidos Hospitalares
+🧑‍💻 Desenvolvedores
 Este projeto foi desenvolvido por:
 
 Henrique Maciel – RM559628
@@ -11,74 +10,79 @@ Pedro Paulo Sabino – RM559578
 
 Luigi Bonuccelli – RM560950
 
-
-
 📽️ Demonstração
-▶️ Vídeo demonstrativo: https://youtu.be/b01IH-7G7FQ
-📊 Diagrama do sistema: https://drive.google.com/file/d/1BVi9gkzulXq5U188Dh8QXu8hKE2w55wY/view?usp=sharing
+▶️ Vídeo demonstrativo: YouTube
 
-O **Baby Kitchen** é um sistema interativo em **Python** desenvolvido para melhorar a comunicação entre mães, profissionais de saúde e o setor de nutrição hospitalar. Com foco em **agilidade, usabilidade e impacto social**, o sistema permite solicitar mamadeiras, medicamentos e assistência médica diretamente do quarto.
+📊 Diagrama do sistema: Google Drive
 
-> 🏥 Ideal para ambientes hospitalares com bebês internados, oferecendo mais organização, praticidade e humanização no atendimento.
+🍼 Sobre o Projeto
+Baby Kitchen é um sistema interativo em Python desenvolvido para melhorar a comunicação entre mães, profissionais de saúde e o setor de nutrição hospitalar.
 
----
+Com foco em agilidade, usabilidade e impacto social, o sistema permite que usuários solicitem mamadeiras, medicamentos e assistência médica diretamente do quarto hospitalar.
 
-## ✨ Funcionalidades
+Ideal para ambientes com bebês internados, oferecendo organização, praticidade e humanização no atendimento.
 
-- ✅ Registro do nome do usuário e número do quarto.
-- 🍼 Solicitação de mamadeiras (com quantidade definida).
-- 💊 Solicitação de medicamentos (com nome específico).
-- 🚨 Chamada de enfermeira ou médico (com motivo informado).
-- 📋 Listagem de todos os pedidos pendentes.
-- ⏱️ Estimativa de tempo de entrega (simulando um app de delivery como o iFood).
-- 💾 Armazenamento dos pedidos em **arquivos JSON**.
-- 🛡️ Validação de entradas e tratamento de erros.
-- 🔁 Sistema interativo via terminal com menu em loop.
+✨ Funcionalidades
+✅ Registro do nome do usuário e número do quarto
 
----
+🍼 Solicitação de mamadeiras com quantidade definida
 
-## 🚀 Como Usar
+💊 Solicitação de medicamentos com nome específico
 
-1. **Pré-requisitos**:
-   - Python 3 instalado
+🚨 Chamada de enfermeira/médico com motivo informado
 
-2. **Clone o repositório** ou baixe os arquivos do projeto.
+📋 Listagem de todos os pedidos pendentes
 
-3. **Execute o sistema no terminal**:
+⏱️ Estimativa de tempo de entrega (simulação estilo iFood)
 
-   ```bash
-   python baby_kitchen.py
+💾 Armazenamento dos pedidos em arquivos JSON
+
+🛡️ Validação de entradas e tratamento de exceções
+
+🔁 Interface interativa via terminal com menu contínuo
+
+🚀 Como Usar
+✔️ Pré-requisitos:
+Python 3 instalado
+
+▶️ Executar o sistema:
+Clone o repositório ou baixe os arquivos do projeto
+
+No terminal, navegue até a pasta do projeto e execute:
+
+bash
+Copiar
+Editar
+python baby_kitchen.py
 📁 Estrutura do Projeto
 bash
 Copiar
 Editar
-📦 baby-kitchen
-├── baby_kitchen.py              # Código principal do sistema
-├── pedidos_mamadeiras.json      # Armazena os pedidos de mamadeiras
-├── pedidos_remedios.json        # Armazena os pedidos de remédios
-
+baby-kitchen/
+├── baby_kitchen.py            # Código principal do sistema
+├── pedidos_mamadeiras.json    # Armazena os pedidos de mamadeiras
+├── pedidos_remedios.json      # Armazena os pedidos de remédios
 🧠 Tecnologias e Conceitos Aplicados
-Python 3
+Linguagem Python 3
 
-Estruturas de dados (listas, dicionários)
+Estruturas de dados: listas e dicionários
 
 Manipulação de arquivos com JSON
 
 Funções modulares e reutilizáveis
 
-Tratamento de exceções (try/except)
+Tratamento de exceções com try/except
 
-Simulação de sistema de fila com tempo de espera estimado
+Simulação de fila de entrega com tempo estimado
 
-🛡️ Status do Projeto
-🚧 Projeto acadêmico – versão funcional para fins educacionais.
+🛠️ Status do Projeto
+🚧 Projeto acadêmico – versão funcional para fins educacionais
 
-✅ Todas as funcionalidades básicas implementadas.
+✅ Todas as funcionalidades básicas implementadas
 
-💡 Aberto a melhorias futuras:
+🔮 Possíveis melhorias futuras:
+Interface gráfica (Tkinter, PyQt ou Web)
 
-Interface gráfica (Tkinter ou Web)
+Integração com banco de dados (SQLite, Firebase)
 
-Integração com banco de dados (SQLite ou Firebase)
-
-API REST ou App mobile
+API REST ou aplicativo mobile
